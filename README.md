@@ -8,4 +8,5 @@ The Attribute information can be found below <br>
 **InvoiceDate**: Invice Date and time. Numeric, the day and time when each transaction was generated.<br>
 **UnitPrice**: Unit price. Numeric, Product price per unit in sterling.<br>
 **CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.<br>
-**Country:** Country name. Nominal, the name of the country where each customer resides.
+**Country:** Country name. Nominal, the name of the country where each customer resides.<br>
+**The datset can be downloaded from UCI Machine Learning Repository - Online Retail Dataset**
